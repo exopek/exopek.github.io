@@ -3,8 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "693635b5258fe5f1cda720cf224f158c",
-"assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
+const RESOURCES = {"assets/AssetManifest.bin": "6cc855495772f349ee317a70876bcbb9",
+"assets/AssetManifest.json": "e3a70a4455748410d9b42b62ad7e9812",
+"assets/assets/Exopek_Logo_Wortmarke_Bildmarke_schwarz-01.png": "301020024e98cf1cab3f0a277a943250",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "efaab920c416d2c8fde70c628ca5eec0",
 "assets/NOTICES": "2fd620013a35138b81794e047967d50b",
@@ -23,9 +24,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "693635b5258fe5f1cda720cf224f158c
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "e026eca07ff975a661101352811e4964",
-"/": "e026eca07ff975a661101352811e4964",
-"main.dart.js": "30de085c5716c638a2c996411fce807b",
+"index.html": "cb8c9597fe01970a6b72c56c1fdde9d6",
+"/": "cb8c9597fe01970a6b72c56c1fdde9d6",
+"main.dart.js": "8a33e926796000e03786c717c1365d42",
 "manifest.json": "085cdd811df19b00181bad5dd03ab080",
 "version.json": "f5c9f124dad73c5b78badce09149b8a1"};
 // The application shell files that are downloaded before a service worker can
